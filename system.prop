@@ -46,3 +46,10 @@ persist.debug.wfd.enable=1
 
 # CameraX
 ro.camerax.extensions.enabled=true
+
+# InfinityX
+ ro.product.marketname=Mi 11X Pro
+ ro.infinity.soc=SNAPDRAGON® 888
+ ro.infinity.battery=4520 mah
+ ro.infinity.display=1080 x 2400 SUPER AMOLED 120Hz
+ ro.infinity.camera=108MP + 8MP + 5MP & 20MP
